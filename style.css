@@ -1,0 +1,17 @@
+.pres-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: #ffffff;
+    border-bottom: 2px solid #333;
+    /* Línea de separación fina */
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.pres-header .logo {
+    font-weight: bold;
+    font-size: 1.2rem;
+}
