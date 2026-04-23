@@ -15,3 +15,22 @@
     font-weight: bold;
     font-size: 1.2rem;
 }
+
+.pres-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.5rem 2rem;
+    background-color: #f8f9fa;
+    border-top: 1px solid #ddd;
+
+    /* Posicionamiento: fijo al fondo */
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    box-sizing: border-box;
+    /* Importante para que el padding no desborde */
+    font-size: 0.9rem;
+    color: #666;
+}
