@@ -1,4 +1,5 @@
 # Mi participación en el laboratorio 7
+## Grupo 2
 ## Nombre
 Jeremy Kalheb Jurgens Davila
 
